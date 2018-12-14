@@ -1,0 +1,23 @@
+---
+title: {Yheet Thunder}
+author: {☭ Камден_Стоуну ☭}
+description: Really Yheaty M.D. Mysterye
+download: https://github.com/
+github: https://github.com/{Author Name}/
+support:
+demo: https://raw.githack.com
+thumbnail:
+images:
+- name: {Theme Name} Preview
+  image: https://imgur.com/upload # Direct image link should only be used here. Imgur isn't required but if it isn't used then further inspection will happen
+- name: {Theme Name} Preview - {Image Name}
+  image: https://cdn.discordapp.com/attachments/471726852382130176/523003365282545694/20181213165205_1.jpg
+status:
+auto:
+featured: 
+style: dark
+tags: []
+ghcommentid: # DON'T CHANGE
+layout: product # DON'T CHANGE
+---
+# A full description of your theme. All Markdown is allowed.
